@@ -15,3 +15,7 @@ trivia quiz application.
 * Compare Swift Classes with Swift Structs and know when to use which.
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
+
+
+![image](https://user-images.githubusercontent.com/84935536/209580897-41f8f485-1c7e-4d39-b00c-e42c14d784de.png)
+
